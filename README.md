@@ -18,3 +18,16 @@ You need to have installed following softwares and libraries in your machine bef
 1. Python 3
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
 3. keras
+## Built With
+* ipython-notebook - Python Text Editor
+* numpy - numerical computation python library
+* Keras - Deep Learning Library
+## Authors
+* Thesis project under professor Soharab Hossain .
+## References
+* https://www.appliedaicourse.com/
+* https://en.wikipedia.org/wiki/ABC_notation
+* https://abcjs.net/abcjs-editor.html
+* https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
+* https://medium.com/datadriveninvestor/music-generation-using-deep-learning-85010fb982e2
+
