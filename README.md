@@ -8,7 +8,8 @@ Now, what is music? In short music is nothing but a __sequence of musical notes_
 ## Data Source:
 1. http://abc.sourceforge.net/NMD/
 2. http://trillian.mit.edu/~jc/music/book/oneills/1850/X/
-##__From first data-source, we have downloaded first file:__
+
+__From first data-source, we have downloaded first file:__
 * Jigs (340 tunes)
 ## Type of Data:
 There are total of 340 music tunes in abc notation.
