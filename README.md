@@ -22,7 +22,7 @@ You need to have installed following softwares and libraries in your machine bef
 * ipython-notebook - Python Text Editor
 * numpy - numerical computation python library
 * Keras - Deep Learning Library
-## Authors
+## Mentor
 * Thesis project under professor Soharab Hossain .
 ## References
 * https://www.appliedaicourse.com/
