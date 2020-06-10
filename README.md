@@ -24,6 +24,7 @@ You need to have installed following softwares and libraries in your machine bef
 * Keras - Deep Learning Library
 ## Mentor
 * Thesis project under professor Soharab Hossain .
+* https://www.linkedin.com/in/soharab/
 ## References
 * https://www.appliedaicourse.com/
 * https://en.wikipedia.org/wiki/ABC_notation
