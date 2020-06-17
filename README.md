@@ -29,7 +29,6 @@ You need to have installed following softwares and libraries in your machine bef
 ## Mentor
 * Thesis project under professor Soharab Hossain .
 ## References
-* https://www.appliedaicourse.com/
 * https://en.wikipedia.org/wiki/ABC_notation
 * https://abcjs.net/abcjs-editor.html
 * https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0
