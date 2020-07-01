@@ -12,7 +12,7 @@ Now, what is music? In short music is nothing but a __sequence of musical notes_
 ## Model-Architecture
 ![alt text](https://miro.medium.com/max/3894/1*7-uUtIVoFPeoJAz8aQCopA.png)
 ## Model-Summary
-![Alt text](C:\Users\Ajay Vamsi\OneDrive\Pictures\dbms 1\Model summary.png?raw=true "Title")
+
 ## Data Source:
 1. http://abc.sourceforge.net/NMD/
 2. http://trillian.mit.edu/~jc/music/book/oneills/1850/X/
