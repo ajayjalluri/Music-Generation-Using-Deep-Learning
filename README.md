@@ -9,6 +9,8 @@ Now, what is music? In short music is nothing but a __sequence of musical notes_
 ![alt text](https://miro.medium.com/max/1400/1*PinsNtKyu-b8EhHz-VR3Tg.png)
 ## Generating music(abc-notation)
 ![alt text](https://miro.medium.com/max/1400/1*pPo4rXle7ttifQajRwMIgw.png)
+## Model-Architecture
+![alt text](https://miro.medium.com/max/3894/1*7-uUtIVoFPeoJAz8aQCopA.png)
 ## Data Source:
 1. http://abc.sourceforge.net/NMD/
 2. http://trillian.mit.edu/~jc/music/book/oneills/1850/X/
